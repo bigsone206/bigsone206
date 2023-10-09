@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @bigsone206
 - 👀 I’m interested in Video Game (really love Zelda series), Music, Comic/Manga - Animation/Anime, Drawing, Technology...
-- 🌱 I’m currently learning Nuxt, Flutter, Python
+- 🌱 I’m currently learning ReactJS, Redux
 - 💞️ I’m looking to collaborate on ... (???)
 - 📫 How to reach me ... (Not Available)
 
